@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Fallout4</Addon>
+    <Source>en</Source>
+    <Dest>cs</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="2" sID="024404">
+      <EDID>MoeCroninShared01</EDID>
+      <REC id="0">INFO:NAM1</REC>
+      <Source>By the way, if you ever wanna help the sport, keep an eye out for old collector's items.</Source>
+      <Dest>Mimochodem, pokud chceš sportu opravdu píchnout, zkus se juknout po starých sběratelských předmetech.</Dest>
+    </String>
+    <String List="2" sID="024405">
+      <EDID>MoeCroninShared02</EDID>
+      <REC id="0">INFO:NAM1</REC>
+      <Source>By the way, if you ever wanna help the sport, keep an eye out for old collector's items.</Source>
+      <Dest>Mimochodem, pokud chceš sportu opravdu píchnout, zkus se juknout po starých sběratelských předmětech.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
